@@ -125,6 +125,27 @@ me.say_hi()
 
 ## 💼 Professional Journey
 
+```mermaid
+timeline
+    title My Career Timeline
+    
+    2022 : Started B.Tech CSE
+         : Sharda University
+    
+    2024 : Multiple Certifications
+         : Stanford ML
+         : Deeplearning.AI
+         : IIT Kharagpur
+    
+    Jan 2025 : GenAI Engineer Intern
+             : The AIZoned
+             : FastAPI • LLMOps • AWS
+    
+    Jun 2025 : Business Analytics Intern
+             : Cvent
+             : Power BI • Data Analytics • KPIs
+```
+
 ### My Career Timeline
 
 | Year | Milestone | Institution/Company | Details |
@@ -135,6 +156,13 @@ me.say_hi()
 | **Jun 2025** |Internship - SKillrisers | AI-Training (ICT Academy) |
 
 ## 📊 Development Breakdown
+```text
+GenAI & LLMOps     ████████████████████░   85%
+Business Analytics ██████████████░░░░░░░   65%
+Backend Development████████████░░░░░░░░░   55%
+Data Science       ███████████████░░░░░░   70%
+Cloud Technologies ██████████░░░░░░░░░░░   45%
+```
 
 **Data Structures and Algorithms** - █████████████████░░░ 85%
                                                                           
