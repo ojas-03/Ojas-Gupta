@@ -138,16 +138,12 @@ me.say_hi()
 
 **Data Structures and Algorithms** -  
 █████████████████░░░ 85%
-
 **Machine Learning** -                
 ███████░░░░░░░░░░░░░ 35%
-
 **Frontend Development** -            
 ██████████████░░░░░░ 70%
-
 **Backend Development** -             
 █████████░░░░░░░░░░░ 45%
-
 **Cloud Technologies** -              
 ███░░░░░░░░░░░░░░░░░ 15%
 
