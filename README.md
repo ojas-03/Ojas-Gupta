@@ -3,12 +3,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%F0%9F%A4%96;Machine+Learning+Enthusiast+%E2%9A%A1;Data+Analytics+Intermediate+%F0%9F%93%8A;Backend+Developer+%F0%9F%9A%80; alt="Typing SVG" />
 <div align="center">
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/ojas-gupta-883804278/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ojasgupta2003@gmail.com)
-
-</div>
-  
+ 
 <p align="center">
   <a href="http://www.linkedin.com/in/ojas-gupta-883804278/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
