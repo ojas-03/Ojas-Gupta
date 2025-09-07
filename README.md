@@ -88,18 +88,15 @@ me.say_hi()
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ojas-03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojas-03&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" />
-  </a>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ojas-03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojas-03&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=300" />
+</p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ojas-03&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ojas-03&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
 
 ## 🚀 Contribution Graph
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ojas-03&theme=tokyo-night&hide_border=true" alt="Ojas Gupta's GitHub Contribution Graph" /> </div>
