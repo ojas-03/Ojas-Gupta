@@ -68,7 +68,7 @@ A modern version of the classic arcade game built using Python Pygame.
 
 ## 🚀 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ojas-03&theme=tokyo-night" />
 </p>
 
 ## 🤝 Let's Connect
