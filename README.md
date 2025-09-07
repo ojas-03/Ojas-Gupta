@@ -12,6 +12,7 @@
 
 ## 🧑‍💻 About Me
 
+```
 python
 class AboutMe:
     def __init__(self):
@@ -26,7 +27,7 @@ class AboutMe:
 
 me = AboutMe()
 me.say_hi()
-
+```
 
 ## ⚙️ Tech Stack
 
