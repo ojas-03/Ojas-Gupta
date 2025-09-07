@@ -3,12 +3,12 @@
 
 <div align="center">
   <!-- First Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=500&color=00F7FF&width=750&lines=🚀+Machine+Learning+%26+Full+Stack+Development+💻&repeat=false" alt="Typing Animation 1" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=500&color=00F7FF&width=750&lines=🚀+Machine+Learning+%26+Full+Stack+Development+💻&repeat=false" alt="Typing Animation" />
 
   <br/>
 
   <!-- Second Animation: starts after first finishes -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=500&color=00F7FF&width=500&lines=Always+learning+New+Technologies+✨&repeat=false&delay=6000" alt="Typing Animation 2" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=500&color=00F7FF&width=500&lines=Always+learning+New+Technologies+✨&repeat=false&delay=6000" alt="Typing Animation" />
 </div>
 
 
@@ -137,9 +137,13 @@ me.say_hi()
 ## 📊 Development Breakdown
 
 **Data Structures and Algorithms** -  █████████████████░░░ 85%
+
 **Machine Learning** -                ███████░░░░░░░░░░░░░ 35%
+
 **Frontend Development** -            ██████████████░░░░░░ 70%
+
 **Backend Development** -             █████████░░░░░░░░░░░ 45%
+
 **Cloud Technologies** -              ███░░░░░░░░░░░░░░░░░ 15%
 
 ### 🎯 Current Focus Areas
