@@ -4,9 +4,8 @@
 <h3 align="center">🚀 Machine Learning & Full Stack Enthusiast 💻</h3>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a> •
-  <a href="mailto:YOUR_EMAIL@gmail.com">Email</a>
+  <a href="http://www.linkedin.com/in/ojas-gupta-883804278/">LinkedIn</a> •
+  <a href="mailto:ojasgupta2003@gmail.com">Email</a>
 </p>
 
 ---
