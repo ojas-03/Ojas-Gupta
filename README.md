@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hey there, I'm Ojas Gupta!</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&width=600&lines=🚀+Machine+Learning+%26+Full+Stack+Development+Enthusiast+💻;Always+learning+new+things+✨" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&width=600&lines=🚀+Machine+Learning+%26+Full+Stack+Development+Enthusiast+💻;Always+learning+new+technologies+✨" alt="Typing Animation" />
 </div>
 
 <p align="center">
