@@ -130,49 +130,29 @@ timeline
     title My Career Timeline
     
     2022 : Started B.Tech CSE
-         : Sharda University
+         : IMS Engineering College
     
-    2024 : Multiple Certifications
-         : Stanford ML
-         : Deeplearning.AI
-         : IIT Kharagpur
+    2023 : Started working on STMS
+         : Began Data Analytics Training
     
-    Jan 2025 : GenAI Engineer Intern
-             : The AIZoned
-             : FastAPI • LLMOps • AWS
-    
-    Jun 2025 : Business Analytics Intern
-             : Cvent
-             : Power BI • Data Analytics • KPIs
+    Jan 2024 : Completed STMS
+             : Completed Data Analytics Training
+            
+    Jun 2025 : Internship - SKillrisers
+             : AI-Training (ICT Academy) by Infosys
 ```
-
-### My Career Timeline
-
-| Year | Milestone | Institution/Company | Details |
-|------|-----------|-------------------|---------|
-| **2022** | Started B. Tech CSE | IMS Engineering College | Beginning of Computer Science journey |
-| **2023** | Started working on STMS | Began Data Analytics Training | 
-| **Jan 2024** | Completed STMS | Completed Data Analytics Training |
-| **Jun 2025** |Internship - SKillrisers | AI-Training (ICT Academy) |
 
 ## 📊 Development Breakdown
+
 ```text
-GenAI & LLMOps     ████████████████████░   85%
-Business Analytics ██████████████░░░░░░░   65%
-Backend Development████████████░░░░░░░░░   55%
-Data Science       ███████████████░░░░░░   70%
-Cloud Technologies ██████████░░░░░░░░░░░   45%
+**Data Structures and Algorithms** - █████████████████░░░ 85%                                                                          
+**Machine Learning**               - ███████░░░░░░░░░░░░░ 35%
+**Frontend Development**           - ██████████████░░░░░░ 70%
+**Backend Development**            - █████████░░░░░░░░░░░ 45%
+**Cloud Technologies**             - ███░░░░░░░░░░░░░░░░░ 15%
 ```
 
-**Data Structures and Algorithms** - █████████████████░░░ 85%
-                                                                          
-**Machine Learning**               - ███████░░░░░░░░░░░░░ 35%
 
-**Frontend Development**           - ██████████████░░░░░░ 70%
-
-**Backend Development**            - █████████░░░░░░░░░░░ 45%
-
-**Cloud Technologies**             - ███░░░░░░░░░░░░░░░░░ 15%
 
 ### 🎯 Current Focus Areas
 - 📊 **Data Structures and Algorithms** - Enhancing my problem-solving skills & optimizing code efficiency
