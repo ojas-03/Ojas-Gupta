@@ -1,19 +1,22 @@
-# Ojas-Gupta
 <!-- Banner -->
 <h1 align="center">👋 Hey there, I'm Ojas Gupta!</h1>
-<h3 align="center">🚀 Machine Learning & Full Stack Enthusiast 💻</h3>
+<h3 align="center">🚀 Machine Learning & Full Stack Development Enthusiast 💻</h3>
 
 <p align="center">
-  <a href="http://www.linkedin.com/in/ojas-gupta-883804278/">LinkedIn</a> •
-  <a href="mailto:ojasgupta2003@gmail.com">Email</a>
+  <a href="http://www.linkedin.com/in/ojas-gupta-883804278/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ojasgupta2003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
+<div align="center">
 
-```
-python
+```python
 class AboutMe:
     def __init__(self):
         self.name = "Ojas Gupta"
@@ -30,54 +33,46 @@ me.say_hi()
 ```
 
 ## ⚙️ Tech Stack
-
-### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### **Frameworks / Tools**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### **Cloud Platforms**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+<div align="center">
+  ### **Languages**
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  
+  ### **Frameworks / Tools**
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  
+  ### **Databases**
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  
+  ### **Cloud Platforms**
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+</div>
 
 ## 📂 Featured Projects
-
-### 🚦 Smart Traffic Management System
-AI-driven traffic control system that optimizes signal timings dynamically.
-- **Tech Stack:** Python, Machine Learning, Pygame  
-- [GitHub Repo](https://github.com/ojas-03/STMS)
-
----
-
-### 🎮 Space Invaders Game
-A modern version of the classic arcade game built using Python Pygame.
-- **Tech Stack:** Python, Pygame  
-- [GitHub Repo](https://github.com/ojas-03/Space-Invaders-Pygame-)
-
+<div align="center">
+  ### 🚦 Smart Traffic Management System
+  AI-driven traffic control system that optimizes signal timings dynamically.
+  - **Tech Stack:** Python, Machine Learning, Pygame  
+  - [GitHub Repo](https://github.com/ojas-03/STMS)
+  
+  ---
+  
+  ### 🎮 Space Invaders Game
+  A modern version of the classic arcade game built using Python Pygame.
+  - **Tech Stack:** Python, Pygame  
+  - [GitHub Repo](https://github.com/ojas-03/Space-Invaders-Pygame-)
+</div>
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ojas-03&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojas-03&layout=compact&theme=tokyonight" height="160"/>
-</p>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ojas-03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojas-03&layout=compact&theme=tokyonight&hide_border=true" height="170" /> </div>
 
 ## 🚀 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ojas-03&theme=tokyo-night" />
-</p>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ojas-03&theme=tokyo-night&hide_border=true" alt="Ojas Gupta's GitHub Contribution Graph" /> </div>
 
-## 🤝 Let's Connect
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+🌟 Fun Animation
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ojas-03&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" /> </div> <div align="center"> <img src="https://github.com/ojas-03/ojas-03/blob/output/github-contribution-grid-snake.svg" alt="Snake animation of contributions" /> </div>
+
+🤝 Let's Connect
+<div align="center"> <a href="http://www.linkedin.com/in/ojas-gupta-883804278/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:ojasgupta2003@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div>
