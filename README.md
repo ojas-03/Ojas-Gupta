@@ -123,10 +123,60 @@ me.say_hi()
   <img src="https://github-profile-trophy.vercel.app/?username=ojas-03&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
+## 💼 Professional Journey
+
+### My Career Timeline
+
+| Year | Milestone | Institution/Company | Details |
+|------|-----------|-------------------|---------|
+| **2022** | Started B. Tech CSE | IMS Engineering College | Beginning of Computer Science journey |
+| **2023** | Started working on STMS | Began Data Analytics Training | 
+| **Jan 2024** | Completed STMS | Completed Data Analytics Training |
+| **Jun 2025** |Internship - SKillrisers | AI-Training (ICT Academy) |
+
+## 📊 Development Breakdown
+
+**Data Structures and Algorithms** - 85% 
+![GenAI](https://progress-bar.dev/85?scale=100&title=Completed&width=300&color=babaca&suffix=%)
+
+**Machine Learning** - 35%
+![Analytics](https://progress-bar.dev/65?scale=100&title=Completed&width=300&color=babaca&suffix=%)
+
+**Frontend Development** - 70%
+![Front End](https://progress-bar.dev/70?scale=100&title=Completed&width=300&color=babaca&suffix=%)
+
+**Backend Development** - 45%
+![Backend](https://progress-bar.dev/55?scale=100&title=Completed&width=300&color=babaca&suffix=%)
+
+**Cloud Technologies** - 15%
+![Cloud](https://progress-bar.dev/45?scale=100&title=Completed&width=300&color=babaca&suffix=%)
+
+### 🎯 Current Focus Areas
+- 📊 **Data Structures and Algorithms** - Enhancing my problem-solving skills & optimizing code efficiency
+- 🤖 **Machine Learning** - Data-driven decision making  
+- ☁️ **Cloud Technologies** - AWS deployment and scaling
+- 🚀 **Full-Stack Development** - End-to-end application development
 
 
 ## 🚀 Contribution Graph
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ojas-03&theme=tokyo-night&hide_border=true" alt="Ojas Gupta's GitHub Contribution Graph" /> </div>
 
-🤝 Let's Connect
-<div align="center"> <a href="http://www.linkedin.com/in/ojas-gupta-883804278/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:ojasgupta2003@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div>
+## 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+
+### 💡 Open to opportunities in:
+
+🤖 **Full Stack Development**  
+📊 **Software Development Engineer - I**  
+🔬 **AI Research & Development**  
+🚀 **Startup collaborations**
+
+### Let's build something amazing together! 🚀
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/ojas-gupta-883804278/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:ojasgupta2003@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ojas-03&label=PROFILE+VIEWS&color=brightgreen&style=flat-square)
+
+</div>
