@@ -69,12 +69,10 @@ me.say_hi()
 
 ## 📊 GitHub Stats
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ojas-03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojas-03&layout=compact&theme=tokyonight&hide_border=true" height="170" /> </div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ojas-03&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 
 ## 🚀 Contribution Graph
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ojas-03&theme=tokyo-night&hide_border=true" alt="Ojas Gupta's GitHub Contribution Graph" /> </div>
-
-🌟 Fun Animation
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ojas-03&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" /> </div> <div align="center"> <img src="https://github.com/ojas-03/ojas-03/blob/output/github-contribution-grid-snake.svg" /> </div>
 
 🤝 Let's Connect
 <div align="center"> <a href="http://www.linkedin.com/in/ojas-gupta-883804278/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:ojasgupta2003@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div>
