@@ -26,6 +26,7 @@ class AboutMe:
 
 me = AboutMe()
 me.say_hi()
+```
 
 ## ⚙️ Tech Stack
 
