@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About Me
 
-```python
+python
 class AboutMe:
     def __init__(self):
         self.name = "Ojas Gupta"
@@ -26,7 +26,7 @@ class AboutMe:
 
 me = AboutMe()
 me.say_hi()
-```
+
 
 ## ⚙️ Tech Stack
 
