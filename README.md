@@ -1,6 +1,6 @@
 # 🚀 Hey there, I'm Ojas Gupta! 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%F0%9F%A4%96;Machine+Learning+Enthusiast+%E2%9A%A1;Data+Analytics+Intermediate+%F0%9F%93%8A;Backend+Developer+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%E2%9A%A1;Machine+Learning+Enthusiast+%F0%9F%A4%96;Data+Analytics+Intermediate+%F0%9F%93%8A;Backend+Developer+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
