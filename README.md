@@ -2,9 +2,9 @@
 <h1 align="center">👋 Hey there, I'm Ojas Gupta!</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=500&color=00F7FF&width=850&lines=🚀+Machine+Learning+%26+Full+Stack+Development+💻" alt="Typing Animation 1" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=500&color=00F7FF&width=750&lines=🚀+Machine+Learning+%26+Full+Stack+Development+💻" alt="Typing Animation 1" />
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=500&color=00F7FF&width=850&lines=Always+learning+new+technologies+✨" alt="Typing Animation 2" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=500&color=00F7FF&width=300&lines=Always+learning+new+technologies+✨" alt="Typing Animation 2" />
 </div>
 
 <p align="center">
