@@ -1,14 +1,6 @@
 <!-- Banner -->
 <h1 align="center">👋 Hey there, I'm Ojas Gupta!</h1>
-
-<div align="center">
-  <!-- First Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=500&color=00F7FF&width=750&lines=🚀+Machine+Learning+%26+Full+Stack+Development+💻&repeat=false" alt="Typing Animation" />
-
-  <br/>
-
-  <!-- Second Animation: starts after first finishes -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=500&color=00F7FF&width=500&lines=Always+learning+New+Technologies+✨&repeat=false&delay=6000" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%F0%9F%A4%96;Machine+Learning+Enthusiast+%E2%9A%A1;Data+Analytics+Intermediate+%F0%9F%93%8A;Backend+Developer+%F0%9F%9A%80; alt="Typing SVG" />
 </div>
 
 
