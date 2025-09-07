@@ -136,20 +136,11 @@ me.say_hi()
 
 ## 📊 Development Breakdown
 
-**Data Structures and Algorithms** - 85% 
-![GenAI](https://progress-bar.dev/85?scale=100&title=Completed&width=300&color=babaca&suffix=%)
-
-**Machine Learning** - 35%
-![Analytics](https://progress-bar.dev/65?scale=100&title=Completed&width=300&color=babaca&suffix=%)
-
-**Frontend Development** - 70%
-![Front End](https://progress-bar.dev/70?scale=100&title=Completed&width=300&color=babaca&suffix=%)
-
-**Backend Development** - 45%
-![Backend](https://progress-bar.dev/55?scale=100&title=Completed&width=300&color=babaca&suffix=%)
-
-**Cloud Technologies** - 15%
-![Cloud](https://progress-bar.dev/45?scale=100&title=Completed&width=300&color=babaca&suffix=%)
+**Data Structures and Algorithms** -  █████████████████░░░ 85%
+**Machine Learning** -                ███████░░░░░░░░░░░░░ 35%
+**Frontend Development** -            ██████████████░░░░░░ 70%
+**Backend Development** -             █████████░░░░░░░░░░░ 45%
+**Cloud Technologies** -              ███░░░░░░░░░░░░░░░░░ 15%
 
 ### 🎯 Current Focus Areas
 - 📊 **Data Structures and Algorithms** - Enhancing my problem-solving skills & optimizing code efficiency
