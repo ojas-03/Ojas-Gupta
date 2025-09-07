@@ -70,20 +70,38 @@ me.say_hi()
 </div>
 
 ## 📂 Featured Projects
+
 <div align="center">
-  
-  ### 🚦 Smart Traffic Management System
-  AI-driven traffic control system that optimizes signal timings dynamically.
-  - **Tech Stack:** Python, Machine Learning, Pygame  
-  - [GitHub Repo](https://github.com/ojas-03/STMS)
-  
-  ---
-  
-  ### 🎮 Space Invaders Game
-  A modern version of the classic arcade game built using Python Pygame.
-  - **Tech Stack:** Python, Pygame  
-  - [GitHub Repo](https://github.com/ojas-03/Space-Invaders-Pygame-)
-  - 
+
+### 🚦 Smart Traffic Management System
+<p align="center">
+  <a href="https://github.com/ojas-03/STMS">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+*AI-driven traffic control system that optimizes signal timings dynamically*
+
+**Tech Stack:** 
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue) 
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F91?style=flat&logo=scikit-learn&logoColor=white) 
+![Pygame](https://img.shields.io/badge/Pygame-32CD32?style=flat&logo=python&logoColor=white)
+
+---
+
+### 🎮 Space Invaders Game
+<p align="center">
+  <a href="https://github.com/ojas-03/Space-Invaders-Pygame-">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+*A modern version of the classic arcade game built using Python Pygame*
+
+**Tech Stack:** 
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue) 
+![Pygame](https://img.shields.io/badge/Pygame-32CD32?style=flat&logo=python&logoColor=white)
+
 </div>
 
 ## 📊 GitHub Stats
