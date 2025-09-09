@@ -64,8 +64,6 @@ me.say_hi()
 
 <div align="center">
 
----
-
 ### 🚦 Smart Traffic Management System
 <p align="center">
   <a href="https://github.com/ojas-03/STMS">
@@ -79,8 +77,6 @@ me.say_hi()
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue) 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F91?style=flat&logo=scikit-learn&logoColor=white) 
 ![Pygame](https://img.shields.io/badge/Pygame-32CD32?style=flat&logo=python&logoColor=white)
-
----
 
 ### 🎮 Space Invaders Game
 <p align="center">
@@ -167,7 +163,6 @@ timeline
 - ☁️ **Cloud Technologies** - AWS deployment and scaling
 - 🚀 **Full-Stack Development** - End-to-end application development
 
----
 
 ## 🚀 Contribution Graph
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ojas-03&theme=tokyo-night&hide_border=true" alt="Ojas Gupta's GitHub Contribution Graph" /> </div>
