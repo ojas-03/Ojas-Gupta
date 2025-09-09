@@ -11,8 +11,6 @@
 
 </div>
 
----
-
 ## 🧑‍💻 About Me
 
 ```python
@@ -58,8 +56,6 @@ me.say_hi()
 
 </div>
 
----
-
 ## 📂 Featured Projects
 
 <div align="center">
@@ -93,15 +89,11 @@ me.say_hi()
 
 </div>
 
----
-
 ## 🧮 LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/ojasgupta2003?theme=dark&font=Baloo+Bhai&ext=heatmap" alt="LeetCode Profile" />
 </p>
-
----
 
 ## 📊 GitHub Stats
 
@@ -122,8 +114,6 @@ me.say_hi()
   <img src="https://github-profile-trophy.vercel.app/?username=ojas-03&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
----
-
 ## 💼 Professional Journey
 
 ```mermaid
@@ -143,8 +133,6 @@ timeline
              : AI-Training (ICT Academy) by Infosys
 ```
 
----
-
 ## 📊 Development Breakdown
 
 ```text
@@ -155,8 +143,6 @@ timeline
 **Cloud Technologies**             - ███░░░░░░░░░░░░░░░░░ 15%
 ```
 
----
-
 ### 🎯 Current Focus Areas
 - 📊 **Data Structures and Algorithms** - Enhancing my problem-solving skills & optimizing code efficiency
 - 🤖 **Machine Learning** - Data-driven decision making  
@@ -166,8 +152,6 @@ timeline
 
 ## 🚀 Contribution Graph
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ojas-03&theme=tokyo-night&hide_border=true" alt="Ojas Gupta's GitHub Contribution Graph" /> </div>
-
----
 
 ## 🤝 Let's Connect & Collaborate!
 
