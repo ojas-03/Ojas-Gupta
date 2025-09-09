@@ -93,6 +93,10 @@ me.say_hi()
 
 </div>
 
+## 📊 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/ojasgupta2003?theme=dark&font=Roboto)
+
 ## 📊 GitHub Stats
 
 <div align="center">
