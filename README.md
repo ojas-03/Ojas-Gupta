@@ -92,7 +92,7 @@ me.say_hi()
 ## 🧮 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/ojasgupta2003?theme=dark&font=Baloo+Bhai&ext=heatmap" alt="LeetCode Profile" />
+  <img src="https://leetcard.jacoblin.cool/ojas-03?theme=dark&font=Baloo+Bhai&ext=heatmap" alt="LeetCode Profile" />
 </p>
 
 ## 📊 GitHub Stats
